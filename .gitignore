@@ -1,2 +1,4 @@
 /src/simple_ocrmypdf/__pycache__
 /src/simple_ocrmypdf/modules/__pycache__
+/src/dist
+/src/simple_ocrmypdf.egg-info

@@ -4,6 +4,14 @@ Simple GUI for ocrmypdf
 
 ![logo](screenshot.png)
 
+## 0. dependencies
+
+Install the line command program `ocrmypdf`.
+
+```bash
+sudo apt-get install ocrmypdf
+```
+
 ## 1. Installing
 
 To install the package from `PyPI`, follow the instructions below:
